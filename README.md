@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Gestionnaire de Contacts CLI est une application en ligne de commande développée en Python. Elle permet de gérer un répertoire de contacts de manière simple et organisée.
+++Gestionnaire de Contacts CLI est une application en ligne de commande développée en Python. Elle permet de gérer un répertoire de contacts de manière simple et organisée.
 
 ## Fonctionnalités
 
